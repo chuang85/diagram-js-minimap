@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/bpmn-io/diagram-js-minimap.git"
   },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+  },
   "keywords": [
     "diagram-js",
     "minimap"
