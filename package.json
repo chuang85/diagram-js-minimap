@@ -1,5 +1,5 @@
 {
-  "name": "diagram-js-minimap",
+  "name": "@ali/diagram-js-minimap",
   "version": "0.5.3",
   "description": "A minimap for diagram-js",
   "main": "index.js",
